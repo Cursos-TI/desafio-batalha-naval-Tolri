@@ -142,5 +142,5 @@ gcc batalha_naval_mestre.c -o mestre
 ## ✍️ Autor
 
 Desenvolvido por [Alexandre Ferreira](https://github.com/tolri)  
-Como parte dos estudos em Ciência da Computação e Redes de Computadores.
+Como parte dos estudos em Análise e Desenvolvimento de Sistemas.
 Equipe de Ensino - MateCheck
